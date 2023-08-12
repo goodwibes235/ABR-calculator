@@ -39,7 +39,7 @@ form input{
 }
 @media (max-width:500px)  {
     .equal {
-        width:110px
+        width:115px
     }
 }
 .placeholder input{
